@@ -23,7 +23,7 @@ int main()
 
 	mahasiswa* pMhs = &mhs;		//Pointer Derefence pMhs
 	pMhs->nim = 3;				//Arrow Operator 
-	pMhs->showNim();
+	pMhs->showNim(); 
 	system("pause");
 	return 0;
 }
