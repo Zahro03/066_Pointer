@@ -38,7 +38,7 @@ int main()
 	o.setNama("  Joko Kumat");
 	siswa s;
 	s.setId(1);
-	s.displayAll(o);
+	s.displayAll(o); 
 	cout << endl;
 	system(" pause");
 	return 0;
