@@ -13,7 +13,7 @@ public:
 
 class siswa {
 private:
-	int id;
+	int id; 
 public:
 	void setId(int pId);
 	void displayAll(orang& a);
